@@ -101,12 +101,24 @@ Create a folder named:
 
 screenshots
 
+## Experiment 4.2 – API Screenshots
 
-And add these image files inside:
+### GET Request
+![GET Request](get.png)
 
-exp-4.1-output.jpg
-get.png
-post.png
-put.png
-redis-running.png
-booking-response.png
+### POST Request
+![POST Request](post.png)
+
+### PUT Request
+![PUT Request](put.png)
+
+---
+
+## Experiment 4.3 – Redis Booking System
+
+### Redis Running
+![Redis Running](redis-running.png)
+
+### Booking Response
+![Booking Response](booking-response.png)
+
