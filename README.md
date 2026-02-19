@@ -101,6 +101,11 @@ Create a folder named:
 
 screenshots
 
+## Experiment 4.1 – CLI Employee Management System
+
+### Output Screenshot
+![Exp 4.1 Output](exp-4.1-output.png)
+
 ## Experiment 4.2 – API Screenshots
 
 ### GET Request
